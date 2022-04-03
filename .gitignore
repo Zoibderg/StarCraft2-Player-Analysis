@@ -1,0 +1,4 @@
+*.DS_store
+*.csv
+*.jovianrc
+sc2_data_set/**
